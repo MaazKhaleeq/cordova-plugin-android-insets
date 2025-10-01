@@ -6,6 +6,9 @@
     version="1.0.0">
     <name>InsetsPlugin</name>
     <description>Cordova Insets Plugin</description>
+    <author>Maaz Khaleeq</author>
+    <repository type="git" url="https://github.com/MaazKhaleeq/cordova-plugin-android-insets.git" />
+    <keywords>cordova, plugin, android, insets, safe-area</keywords>
 
     <js-module name="InsetsPlugin" src="www/insets.js">
         <clobbers target="cordova.plugins.InsetsPlugin" />
