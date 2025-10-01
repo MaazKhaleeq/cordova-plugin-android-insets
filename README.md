@@ -283,7 +283,7 @@ This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENS
 
 ## Changelog
 
-### 1.0.0
+### 1.0.1
 - Initial release
 - Support for Android window insets
 - Edge-to-edge display compatibility
