@@ -1,6 +1,17 @@
 {
   "name": "cordova-plugin-android-insets",
   "description": "Cordova Android Insets Plugin",
+  "main": "www/insets.js",
+  "keywords": [
+    "cordova",
+    "ecosystem:cordova",
+    "cordova:plugin",
+    "cordova-android",
+    "plugin",
+    "android",
+    "insets",
+    "safe-area"
+  ],
   "repository": {
     "type": "git",
     "url": "https://github.com/MaazKhaleeq/cordova-plugin-android-insets.git"
@@ -9,10 +20,6 @@
     "registry": "https://registry.npmjs.org",
     "access": "public"
   },
-  "keywords": [
-    "cordova",
-    "plugin", "android", "insets", "safe-area"
-  ],
   "author": "Maaz Khaleeq",
   "license": "Apache-2.0",
   "homepage": "https://github.com/MaazKhaleeq/cordova-plugin-android-insets",
