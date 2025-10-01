@@ -1,0 +1,21 @@
+{
+  "name": "cordova-plugin-android-insets",
+  "description": "Cordova Android Insets Plugin",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MaazKhaleeq/cordova-plugin-android-insets.git"
+  },
+  "keywords": [
+    "cordova",
+    "plugin", "android", "insets", "safe-area"
+  ],
+  "author": "Maaz Khaleeq",
+  "license": "Apache-2.0",
+  "version": "1.0.0",
+  "cordova": {
+    "id": "cordova-plugin-android-insets",
+    "platforms": [
+      "android"
+    ]
+  }
+}
